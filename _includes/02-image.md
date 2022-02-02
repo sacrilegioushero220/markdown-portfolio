@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My profile picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforums.oneplus.com%2Fthreads%2Fone-plus-3-mic-and-earphone-not-working.1053843%2F&psig=AOvVaw0XwGGEQ8_ZRD5wZfr_TlpB&ust=1643887812173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDf27714PUCFQAAAAAdAAAAABAQ)
